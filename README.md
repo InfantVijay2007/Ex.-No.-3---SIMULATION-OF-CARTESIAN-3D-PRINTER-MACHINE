@@ -60,7 +60,7 @@
 
 ## Output:
 
-
+![alt text](<Screenshot 2026-03-16 132958.png>)
 
 ### Name: A.Infant Vijay
 ### Register Number: 212225240052
